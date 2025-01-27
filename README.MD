@@ -56,6 +56,11 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - Freepik para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
 
+## 🚀 Resultados
+O episódio é uma introdução acessível e voltado para os estudantes que concluíram o ensino médio e que desejam ingressar no ensino superior com recursos do FIES. Ideal para quem busca uma compreensão rápida do assunto.
+
+[LINK PARA O PODCAST AQUI]()
+
 ## 📚 Materiais
 
 - [Link da live no Youtube](https://www.youtube.com)
