@@ -31,9 +31,9 @@
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o BOOTCAMP CAIXA realizado pela [DIO](https://dio.me)
 
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
+Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais elaborados.
 
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
+Foi Utilizada uma esteira de prompts para gerar cada etapa do processo criativo.
 
 # Podcast: Fies no Caminho Certo 🎙️
 
