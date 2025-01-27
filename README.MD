@@ -45,13 +45,6 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 ## ✨ Como foi feito ?
 
 - Roteiro gerado via chatgpt
-
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Você é um roteirista de podcast, e vamos criar um podcast de educação, focado no financiamento estudantil e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para um podcast de FIES direcionado para os estudantes, que pretendem utilizar o financiamento estudantil.O podcast vai falar sobre dicas e etapas para ingressar no ensino superior com recursos do FIES - Financiamento Estudantil |
-| conteúdo | Com base no título "Transforme Suas Ideias em Palavras com a IA: É Mais Fácil do que Você Imagina!" crie um ebook de 5 páginas de maneira simples e didática contendo itens e subitens sobre os geradores de texto copilot, gemini e chatgpt e pontos em comum e diferenças entre estas ferramentas.|
-
-
 - Audio gerado pela luvvoice
 - Freepik para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
@@ -59,7 +52,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 ## 🚀 Resultados
 O episódio é uma introdução acessível e voltado para os estudantes que concluíram o ensino médio e que desejam ingressar no ensino superior com recursos do FIES. Ideal para quem busca uma compreensão rápida do assunto.
 
-[LINK PARA O PODCAST AQUI]()
+[LINK PARA O PODCAST AQUI](https://github.com/BMXC8282/prompts-for-podcast-generate-by-ia/blob/main/output/Podcast%20Fies%20Editado.mp3)
 
 ## 📚 Materiais
 
