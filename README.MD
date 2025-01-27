@@ -35,7 +35,7 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 
 Foi Utilizada uma esteira de prompts para gerar cada etapa do processo criativo.
 
-# Podcast: Fies no Caminho Certo 🎙️
+# Podcast: FIES no Caminho Certo 🎙️
 
 ## 📒 Descrição
 Este podcast de 3 minutos oferece um passeio rápido, sobre o financimento estudantil - FIES.
