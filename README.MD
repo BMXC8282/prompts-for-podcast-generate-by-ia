@@ -29,11 +29,17 @@
 # Projeto Podcast Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o BOOTCAMP CAIXA realizado pela [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
 Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
+
+# Podcast: Fies no Caminho Certo 🎙️
+
+## 📒 Descrição
+Este podcast de 3 minutos oferece um passeio rápido, sobre o financimento estudantil - FIES.
+
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -54,7 +60,7 @@ O episódio é uma introdução acessível e voltado para os estudantes que conc
 
 [LINK PARA O PODCAST AQUI](https://github.com/BMXC8282/prompts-for-podcast-generate-by-ia/blob/main/output/Podcast%20Fies%20Editado.mp3)
 
-## 📚 Materiais
+## 📚 Materiais que subsidiaram a criação do podcast
 
 - [Link da live no Youtube](https://www.youtube.com)
 - [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
@@ -63,7 +69,7 @@ O episódio é uma introdução acessível e voltado para os estudantes que conc
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
+Foram utilizados os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, seguindo  o passo a passo abaixo.
 
 - 🤖 1. Use os prompts de roteiro no `chagpt`
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `Luvvoice`
